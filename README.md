@@ -22,8 +22,8 @@ Installation & Setup :-)
 
 Clone the Repository
 
-git clone [https://github.com/vidit-shringi/HACKERS_SHELL_GPT.git](https://github.com/vidit-shringi/shellgpt.git)
-cd shellgit
+git clone [https://github.com/vidit-shringi/shellgpt](https://github.com/vidit-shringi/shellgpt.git)
+cd shellgpt
 
 
 Make the Script Executable
