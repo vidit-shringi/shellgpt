@@ -28,12 +28,12 @@ cd shellgpt
 
 Make the Script Executable
 
-chmod +x setup_sgpt.sh
+chmod +x shellgpt.sh
 
 
 Initialize the Neural Link
 
-./setup_sgpt.sh
+./shellgpt.sh
 
 
 Reload Your Terminal
