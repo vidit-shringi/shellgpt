@@ -1,0 +1,15 @@
+LEGAL & ETHICAL DISCLAIMER
+
+HACKERS_SHELL_GPT is an educational utility designed strictly for ethical hacking, penetration testing, and authorized cybersecurity training (such as EC-Council CEH labs).
+
+By using this software, you agree to the following:
+
+Authorized Use Only: You will only use this tool on networks, systems, and devices for which you have explicit, written permission to test.
+
+No Malicious Intent: You will not use this tool to conduct illegal activities, unauthorized reconnaissance, data theft, or destructive attacks (e.g., DoS/DDoS).
+
+Liability: The author(s) and maintainer(s) of this repository are NOT responsible for any damage, legal repercussions, or misuse of this software by third parties.
+
+OPSEC Responsibility: You are solely responsible for ensuring your API keys are not accidentally committed to public repositories.
+
+Remember: The difference between an ethical hacker and a malicious threat actor is permission. Always stay within the scope of your engagement.
