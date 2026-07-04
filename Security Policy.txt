@@ -1,0 +1,23 @@
+Security Policy
+
+Supported Versions
+
+Currently, only the latest main branch of HACKERS_SHELL_GPT is actively supported with security updates.
+
+Version
+
+Supported
+
+1.0.x
+
+:white_check_mark:
+
+< 1.0
+
+:x:
+
+Reporting a Vulnerability
+
+As this tool handles API keys and terminal configurations, security is paramount.
+
+If you discover a security vulnerability within this repository (e.g., unintended credential logging, arbitrary code execution flaws in the bash script), please do NOT disclose it publicly. Instead, open a private issue or email the maintainer directly. We will review the vulnerability and issue a patch as quickly as possible.
