@@ -1,0 +1,44 @@
+Environments
+
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+ShellGPT specific configs
+
+.sgptrc
+API_KEYS.txt
+
+Python
+
+pycache/
+*.py[cod]
+*$py.class
+
+OS generated files
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+Lab Outputs and Reports
+
+reports/.pdf
+reports/.txt
+reports/.xml
+reports/.html
+!reports/.gitkeep
+
+Screen captures
+
+screenshots/.png
+screenshots/.jpg
+!screenshots/.gitkeep
